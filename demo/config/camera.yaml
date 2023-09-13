@@ -22,8 +22,8 @@
       i_calibration_file: ''
       i_enable_preview: false
       i_fps: 30.0
-      i_width: 1280
-      i_height: 720
+      i_width: 1920
+      i_height: 1080
       i_interleaved: false
       i_keep_preview_aspect_ratio: true
       i_low_bandwidth: false
@@ -31,7 +31,7 @@
       i_max_q_size: 30
       i_preview_size: 300
       i_publish_topic: true
-      i_resolution: '800'
+      i_resolution: '1080'
       i_set_isp_scale: false
       i_isp_num: 2
       i_isp_den: 3
