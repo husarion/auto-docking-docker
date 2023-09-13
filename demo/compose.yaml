@@ -9,7 +9,7 @@ services:
     command: ros2 launch depthai_ros_driver camera.launch.py parent_frame:=oak-1-base-frame
 
   rviz:
-    image: husarion/rviz2:humble
+    image: husarion/rviz2:galactic
     volumes:
       - /tmp/.X11-unix:/tmp/.X11-unix:rw
       - ./config/default.rviz:/root/.rviz2/default.rviz
