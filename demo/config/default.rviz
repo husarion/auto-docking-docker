@@ -4,7 +4,6 @@ Panels:
     Name: Displays
     Property Tree Widget:
       Expanded:
-        - /TF1/Frames1
         - /TF1/Tree1
       Splitter Ratio: 0.5
     Tree Height: 482
@@ -36,7 +35,7 @@ Visualization Manager:
         All Enabled: false
         oak:
           Value: true
-        oak-1-base-frame:
+        oak_1_base_frame:
           Value: true
         oak_imu_frame:
           Value: false
@@ -60,7 +59,7 @@ Visualization Manager:
       Show Axes: true
       Show Names: false
       Tree:
-        oak-1-base-frame:
+        oak_1_base_frame:
           oak:
             oak_imu_frame:
               {}
@@ -94,7 +93,7 @@ Visualization Manager:
   Enabled: true
   Global Options:
     Background Color: 48; 48; 48
-    Fixed Frame: oak-1-base-frame
+    Fixed Frame: oak_1_base_frame
     Frame Rate: 30
   Name: root
   Tools:
@@ -175,5 +174,5 @@ Window Geometry:
   Views:
     collapsed: false
   Width: 2388
-  X: 4012
-  Y: 774
+  X: 684
+  Y: 342
